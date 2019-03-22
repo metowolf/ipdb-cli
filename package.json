@@ -1,0 +1,17 @@
+{
+  "name": "ipdb-cli",
+  "version": "0.1.0",
+  "description": "Query IP address in the terminal",
+  "bin": {
+    "ipdb": "./cli.js"
+  },
+  "repository": "git@github.com:metowolf/ipdb-cli.git",
+  "author": "metowolf <i@i-meto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@ipdb/database": "^2019.1.9",
+    "chalk": "^2.4.2",
+    "ipdb": "^0.2.1",
+    "meow": "^5.0.0"
+  }
+}
