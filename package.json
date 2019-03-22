@@ -1,5 +1,5 @@
 {
-  "name": "ipdb-cli",
+  "name": "@ipdb/cli",
   "version": "0.1.0",
   "description": "Query IP address in the terminal",
   "bin": {
